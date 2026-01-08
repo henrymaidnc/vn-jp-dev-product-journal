@@ -1,7 +1,7 @@
 # VN–JP Dev Product Journal
 
 ## 📌 Overview
-This repository is my personal journal and portfolio documenting the journey of building internal systems for a **Japanese manufacturing company** while working from **Vietnam**.  
+A personal journal and portfolio of my experience building internal systems for a **Japanese manufacturing company**, conducted remotely from **Vietnam**.
 It captures not only **technical challenges** but also **end-user expectations and cultural standards** that shape how software is used in Japan.
 
 ## 👤 My Role
