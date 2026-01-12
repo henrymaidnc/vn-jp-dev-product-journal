@@ -1,4 +1,4 @@
-# YYYY-MM-DD Log — Project: [Project Name]
+# YYYY-MM-DD Log
 
 ## 📌 Context
 Describe the situation or project task.
